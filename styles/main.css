@@ -9,7 +9,7 @@
   height: 100vh;
   background-size: cover;
   background-position: center;
-  border-bottom: black solid 3px;
+  border-bottom: black solid 5px;
 }
 
 .layover{
@@ -34,4 +34,8 @@
 
 .img1 {
   background-image: url("../img/norvegia.jpg");
+}
+
+.img2 {
+  background-image: url("../img/svezia.jpg");
 }
